@@ -1,0 +1,1 @@
+In our project, our goal is to utilize a BERT-based model in order to identify and filter out spam messages from emails, social media, or other types of communication. We believe that BERT has potential to be used for bidirectional encodings and allow for greater ability to distinguish between spam and non-spam. 

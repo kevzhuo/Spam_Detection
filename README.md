@@ -1,1 +1,1 @@
-Students Working on This Project: Kevin Zhuo and Daniel ZHang 
+Students Working on This Project: Kevin Zhuo and Daniel Zhang 

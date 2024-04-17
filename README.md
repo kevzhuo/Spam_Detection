@@ -1,6 +1,6 @@
 # Students Working on This Project: Kevin Zhuo and Daniel Zhang 
 
-Abstract:
+**Abstract:**
 In our project, our goal is to utilize a BERT-based model in order to iden-
 tify and filter out spam messages from emails, social media, or other types of
 communication. We believe that BERT has potential to be used for bidirec-

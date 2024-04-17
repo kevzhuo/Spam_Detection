@@ -1,4 +1,4 @@
-Students Working on This Project: Kevin Zhuo and Daniel Zhang 
+# Students Working on This Project: Kevin Zhuo and Daniel Zhang 
 
 Abstract:
 In our project, our goal is to utilize a BERT-based model in order to iden-
@@ -16,7 +16,7 @@ The dataset that we use is the 'SMS Spam' Dataset. The dataset is a set of SMS t
 
 In order to run the code, the first cell in the notebook loads in the dataset and splits it into training, validation, and testing. The second cell in the notebook tokenizes the inputs using the Distilbert model (A version of BERT that is computationally lighter with fewer parameters). The third cell in the notebook defines the training arguments for the model, defines the model itself, and trains the model. The fourth cell in the notebook evaluates the model on the validation and test set. 
 
-TDLR for running the code:
+**TDLR for running the code:**
 
 Run 1st cell -> Load in and process the spam dataset
 
